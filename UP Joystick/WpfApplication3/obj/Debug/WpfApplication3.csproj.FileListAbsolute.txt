@@ -1,0 +1,57 @@
+c:\users\lab\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+c:\users\lab\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe
+c:\users\lab\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.pdb
+c:\users\lab\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\SharpDX.DirectInput.dll
+c:\users\lab\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\SharpDX.dll
+c:\users\lab\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\SharpDX.pdb
+c:\users\lab\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\SharpDX.DirectInput.pdb
+c:\users\lab\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\SharpDX.DirectInput.xml
+c:\users\lab\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.baml
+c:\users\lab\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.g.cs
+c:\users\lab\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+c:\users\lab\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+c:\users\lab\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+c:\users\lab\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+c:\users\lab\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+c:\users\lab\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.exe
+c:\users\lab\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.pdb
+C:\Users\admin\Desktop\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+C:\Users\admin\Desktop\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe
+C:\Users\admin\Desktop\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.pdb
+C:\Users\admin\Desktop\WpfApplication3\WpfApplication3\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\admin\Desktop\WpfApplication3\WpfApplication3\bin\Debug\SharpDX.dll
+C:\Users\admin\Desktop\WpfApplication3\WpfApplication3\bin\Debug\SharpDX.pdb
+C:\Users\admin\Desktop\WpfApplication3\WpfApplication3\bin\Debug\SharpDX.DirectInput.pdb
+C:\Users\admin\Desktop\WpfApplication3\WpfApplication3\bin\Debug\SharpDX.DirectInput.xml
+C:\Users\admin\Desktop\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\admin\Desktop\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+C:\Users\admin\Desktop\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+C:\Users\admin\Desktop\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csproj.CopyComplete
+C:\Users\admin\Desktop\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.exe
+C:\Users\admin\Desktop\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.pdb
+C:\Users\matma\Desktop\UP Joystick\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+C:\Users\matma\Desktop\UP Joystick\WpfApplication3\bin\Debug\WpfApplication3.exe
+C:\Users\matma\Desktop\UP Joystick\WpfApplication3\bin\Debug\WpfApplication3.pdb
+C:\Users\matma\Desktop\UP Joystick\WpfApplication3\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\matma\Desktop\UP Joystick\WpfApplication3\bin\Debug\SharpDX.dll
+C:\Users\matma\Desktop\UP Joystick\WpfApplication3\bin\Debug\SharpDX.pdb
+C:\Users\matma\Desktop\UP Joystick\WpfApplication3\bin\Debug\SharpDX.DirectInput.pdb
+C:\Users\matma\Desktop\UP Joystick\WpfApplication3\bin\Debug\SharpDX.DirectInput.xml
+C:\Users\matma\Desktop\UP Joystick\WpfApplication3\obj\Debug\WpfApplication3.csprojAssemblyReference.cache
+C:\Users\matma\Desktop\UP Joystick\WpfApplication3\obj\Debug\MainWindow.baml
+C:\Users\matma\Desktop\UP Joystick\WpfApplication3\obj\Debug\MainWindow.g.cs
+C:\Users\matma\Desktop\UP Joystick\WpfApplication3\obj\Debug\App.g.cs
+C:\Users\matma\Desktop\UP Joystick\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\matma\Desktop\UP Joystick\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+C:\Users\matma\Desktop\UP Joystick\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+C:\Users\matma\Desktop\UP Joystick\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.cache
+C:\Users\matma\Desktop\UP Joystick\WpfApplication3\obj\Debug\WpfApplication3.csproj.CoreCompileInputs.cache
+C:\Users\matma\Desktop\UP Joystick\WpfApplication3\obj\Debug\WpfApplication3.csproj.CopyComplete
+C:\Users\matma\Desktop\UP Joystick\WpfApplication3\obj\Debug\WpfApplication3.exe
+C:\Users\matma\Desktop\UP Joystick\WpfApplication3\obj\Debug\WpfApplication3.pdb

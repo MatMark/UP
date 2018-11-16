@@ -1,0 +1,23 @@
+﻿<Window x:Class="WpfApplication3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="417.5" Width="525" Background="Red">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="29*"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="Buttonn" Content="Clear" Visibility="Hidden" HorizontalAlignment="Left" Height="47" Margin="427,223,0,0" VerticalAlignment="Top" Width="61" Click="Buttonn_Click" Grid.Row="1"/>
+        <TextBox x:Name="MyTextBox" HorizontalAlignment="Left" Height="35" Margin="157,279,0,0" Grid.Row="1" TextWrapping="Wrap" Text="poz" VerticalAlignment="Top" Width="165" RenderTransformOrigin="0.497,2.086"/>
+        <Canvas HorizontalAlignment="Left" Height="100" Margin="29,87,0,0" Grid.Row="1" VerticalAlignment="Top" Width="100">
+            
+        </Canvas>
+        
+        <InkCanvas Focusable="True" x:Name="inkCanvas1" HorizontalAlignment="Left" Height="220" Margin="134,25,0,0" Grid.Row="1" VerticalAlignment="Top" Width="236" Gesture="inkCanvas1_Gesture" Cursor="None" Visibility="Visible"/>
+        <Button x:Name="ConnectButton" Content="Polacz" HorizontalAlignment="Left" Height="37" Margin="196,314,0,0" Grid.Row="1" VerticalAlignment="Top" Width="93" Click="ConnectButton_Click"/>
+        <Button x:Name="DisconnectButton" Visibility="Hidden" Content="DisconnectButton" HorizontalAlignment="Left" Height="52" Margin="157,205,0,0" Grid.Row="1" VerticalAlignment="Top" Width="111" Click="DisconnectButton_Click"/>
+        <Canvas x:Name="KANWAS" HorizontalAlignment="Left" Height="100" Margin="189,25,0,0" Grid.Row="1" VerticalAlignment="Top" Width="100"/>
+        <Button x:Name="ButtonJoystickClick" Content="notKlik" HorizontalAlignment="Left" Margin="413,25,0,0" Grid.Row="1" VerticalAlignment="Top" Width="75" Height="220" Click="ButtonJoystickClick_Click"/>
+
+    </Grid>
+</Window>
