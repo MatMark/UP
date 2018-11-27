@@ -1,0 +1,30 @@
+C:\Users\lab\Desktop\laser\Laser\Laser\bin\Debug\Laser.exe.config
+C:\Users\lab\Desktop\laser\Laser\Laser\bin\Debug\Laser.exe
+C:\Users\lab\Desktop\laser\Laser\Laser\bin\Debug\Laser.pdb
+C:\Users\lab\Desktop\laser\Laser\Laser\obj\Debug\Laser.csprojResolveAssemblyReference.cache
+C:\Users\lab\Desktop\laser\Laser\Laser\obj\Debug\MainWindow.baml
+C:\Users\lab\Desktop\laser\Laser\Laser\obj\Debug\MainWindow.g.cs
+C:\Users\lab\Desktop\laser\Laser\Laser\obj\Debug\App.g.cs
+C:\Users\lab\Desktop\laser\Laser\Laser\obj\Debug\Laser_MarkupCompile.cache
+C:\Users\lab\Desktop\laser\Laser\Laser\obj\Debug\Laser.g.resources
+C:\Users\lab\Desktop\laser\Laser\Laser\obj\Debug\Laser.Properties.Resources.resources
+C:\Users\lab\Desktop\laser\Laser\Laser\obj\Debug\Laser.csproj.GenerateResource.Cache
+C:\Users\lab\Desktop\laser\Laser\Laser\obj\Debug\Laser.exe
+C:\Users\lab\Desktop\laser\Laser\Laser\obj\Debug\Laser.pdb
+C:\Users\lab\Desktop\laser\Laser\Laser\bin\Debug\PrinterUtility.dll
+E:\Inż\Semestr V\UP\lab3\Drukarka laser\Laser\bin\Debug\Laser.exe.config
+E:\Inż\Semestr V\UP\lab3\Drukarka laser\Laser\bin\Debug\Laser.exe
+E:\Inż\Semestr V\UP\lab3\Drukarka laser\Laser\bin\Debug\Laser.pdb
+E:\Inż\Semestr V\UP\lab3\Drukarka laser\Laser\bin\Debug\PrinterUtility.dll
+E:\Inż\Semestr V\UP\lab3\Drukarka laser\Laser\obj\Debug\Laser.csprojAssemblyReference.cache
+E:\Inż\Semestr V\UP\lab3\Drukarka laser\Laser\obj\Debug\MainWindow.baml
+E:\Inż\Semestr V\UP\lab3\Drukarka laser\Laser\obj\Debug\MainWindow.g.cs
+E:\Inż\Semestr V\UP\lab3\Drukarka laser\Laser\obj\Debug\App.g.cs
+E:\Inż\Semestr V\UP\lab3\Drukarka laser\Laser\obj\Debug\Laser_MarkupCompile.cache
+E:\Inż\Semestr V\UP\lab3\Drukarka laser\Laser\obj\Debug\Laser.g.resources
+E:\Inż\Semestr V\UP\lab3\Drukarka laser\Laser\obj\Debug\Laser.Properties.Resources.resources
+E:\Inż\Semestr V\UP\lab3\Drukarka laser\Laser\obj\Debug\Laser.csproj.GenerateResource.cache
+E:\Inż\Semestr V\UP\lab3\Drukarka laser\Laser\obj\Debug\Laser.csproj.CoreCompileInputs.cache
+E:\Inż\Semestr V\UP\lab3\Drukarka laser\Laser\obj\Debug\Laser.csproj.CopyComplete
+E:\Inż\Semestr V\UP\lab3\Drukarka laser\Laser\obj\Debug\Laser.exe
+E:\Inż\Semestr V\UP\lab3\Drukarka laser\Laser\obj\Debug\Laser.pdb
