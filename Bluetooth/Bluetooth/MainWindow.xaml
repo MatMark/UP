@@ -1,0 +1,32 @@
+﻿<Window x:Class="Bluetooth.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bluetooth"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="273.333" Width="528.666">
+    <Grid Margin="0,0,3,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="229*"/>
+            <ColumnDefinition Width="324*"/>
+            <ColumnDefinition Width="240*"/>
+        </Grid.ColumnDefinitions>
+        <ListBox x:Name="ListBoxAdapters" HorizontalAlignment="Left" Height="69" Margin="9,36,0,0" VerticalAlignment="Top" Width="349" Grid.ColumnSpan="2"/>
+        <ListBox x:Name="ListBoxDevices" HorizontalAlignment="Left" Height="95" Margin="9,136,0,0" VerticalAlignment="Top" Width="351" Grid.ColumnSpan="2"/>
+        <Button x:Name="ButtonRefresh" Content="Scan adapters" HorizontalAlignment="Left" Margin="24,36,0,0" VerticalAlignment="Top" Width="113" Click="ButtonRefresh_Click" Grid.Column="2"/>
+        <Button x:Name="ButtonChoose" Content="Choose" HorizontalAlignment="Left" Margin="24,61,0,0" VerticalAlignment="Top" Width="113" Click="ButtonChoose_Click" Grid.Column="2"/>
+        <Button x:Name="ButtonInfo" Content="Info" HorizontalAlignment="Left" Margin="24,86,0,0" VerticalAlignment="Top" Width="113" Click="ButtonInfo_Click" Grid.Column="2"/>
+        <Button x:Name="ButtonConnect" Content="Connect" HorizontalAlignment="Left" Margin="26,186,0,0" VerticalAlignment="Top" Width="111" Click="ButtonConnect_Click" Grid.Column="2"/>
+        <Button x:Name="ButtonDeviceInfo" Content="Info" HorizontalAlignment="Left" Margin="26,161,0,0" VerticalAlignment="Top" Width="111" Click="ButtonDeviceInfo_Click" Grid.Column="2"/>
+        <Button x:Name="ButtonSearch" Content="Search for devices" HorizontalAlignment="Left" Margin="26,136,0,0" VerticalAlignment="Top" Width="111" Click="ButtonSearch_Click" Grid.Column="2"/>
+        <Label x:Name="LabelDevices" Content="Devices" HorizontalAlignment="Left" Margin="9.333,110,0,0" VerticalAlignment="Top" Grid.Column="1" Width="53"/>
+        <Label x:Name="LabelAdapters" Content="Adapters" HorizontalAlignment="Left" Margin="2.333,10,0,0" VerticalAlignment="Top" Grid.Column="1" Width="60"/>
+        <Grid Grid.Column="1" HorizontalAlignment="Left" Height="100" Margin="94.667,318,0,0" VerticalAlignment="Top" Width="100">
+
+        </Grid>
+        <Button x:Name="ButtonChooseFile" Content="Choose file" Grid.Column="2" HorizontalAlignment="Left" Margin="26,211,0,0" VerticalAlignment="Top" Width="111" Click="ButtonChooseFile_Click"/>
+
+
+    </Grid>
+</Window>

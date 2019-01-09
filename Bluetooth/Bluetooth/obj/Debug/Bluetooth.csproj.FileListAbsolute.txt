@@ -1,0 +1,36 @@
+C:\Users\lab\source\repos\Bluetooth\Bluetooth\bin\Debug\Bluetooth.exe.config
+C:\Users\lab\source\repos\Bluetooth\Bluetooth\bin\Debug\Bluetooth.exe
+C:\Users\lab\source\repos\Bluetooth\Bluetooth\bin\Debug\Bluetooth.pdb
+C:\Users\lab\source\repos\Bluetooth\Bluetooth\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\lab\source\repos\Bluetooth\Bluetooth\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\lab\source\repos\Bluetooth\Bluetooth\obj\Debug\Bluetooth.csprojAssemblyReference.cache
+C:\Users\lab\source\repos\Bluetooth\Bluetooth\obj\Debug\MainWindow.g.cs
+C:\Users\lab\source\repos\Bluetooth\Bluetooth\obj\Debug\App.g.cs
+C:\Users\lab\source\repos\Bluetooth\Bluetooth\obj\Debug\Bluetooth_MarkupCompile.cache
+C:\Users\lab\source\repos\Bluetooth\Bluetooth\obj\Debug\Bluetooth_MarkupCompile.lref
+C:\Users\lab\source\repos\Bluetooth\Bluetooth\obj\Debug\MainWindow.baml
+C:\Users\lab\source\repos\Bluetooth\Bluetooth\obj\Debug\Bluetooth.g.resources
+C:\Users\lab\source\repos\Bluetooth\Bluetooth\obj\Debug\Bluetooth.Properties.Resources.resources
+C:\Users\lab\source\repos\Bluetooth\Bluetooth\obj\Debug\Bluetooth.csproj.GenerateResource.cache
+C:\Users\lab\source\repos\Bluetooth\Bluetooth\obj\Debug\Bluetooth.csproj.CoreCompileInputs.cache
+C:\Users\lab\source\repos\Bluetooth\Bluetooth\obj\Debug\Bluetooth.csproj.CopyComplete
+C:\Users\lab\source\repos\Bluetooth\Bluetooth\obj\Debug\Bluetooth.exe
+C:\Users\lab\source\repos\Bluetooth\Bluetooth\obj\Debug\Bluetooth.pdb
+E:\Inż\Semestr V\UP\lab5\Bluetooth\Bluetooth\bin\Debug\Bluetooth.exe.config
+E:\Inż\Semestr V\UP\lab5\Bluetooth\Bluetooth\bin\Debug\Bluetooth.exe
+E:\Inż\Semestr V\UP\lab5\Bluetooth\Bluetooth\bin\Debug\Bluetooth.pdb
+E:\Inż\Semestr V\UP\lab5\Bluetooth\Bluetooth\bin\Debug\InTheHand.Net.Personal.dll
+E:\Inż\Semestr V\UP\lab5\Bluetooth\Bluetooth\bin\Debug\InTheHand.Net.Personal.xml
+E:\Inż\Semestr V\UP\lab5\Bluetooth\Bluetooth\obj\Debug\Bluetooth.csprojAssemblyReference.cache
+E:\Inż\Semestr V\UP\lab5\Bluetooth\Bluetooth\obj\Debug\MainWindow.g.cs
+E:\Inż\Semestr V\UP\lab5\Bluetooth\Bluetooth\obj\Debug\App.g.cs
+E:\Inż\Semestr V\UP\lab5\Bluetooth\Bluetooth\obj\Debug\Bluetooth_MarkupCompile.cache
+E:\Inż\Semestr V\UP\lab5\Bluetooth\Bluetooth\obj\Debug\Bluetooth_MarkupCompile.lref
+E:\Inż\Semestr V\UP\lab5\Bluetooth\Bluetooth\obj\Debug\MainWindow.baml
+E:\Inż\Semestr V\UP\lab5\Bluetooth\Bluetooth\obj\Debug\Bluetooth.g.resources
+E:\Inż\Semestr V\UP\lab5\Bluetooth\Bluetooth\obj\Debug\Bluetooth.Properties.Resources.resources
+E:\Inż\Semestr V\UP\lab5\Bluetooth\Bluetooth\obj\Debug\Bluetooth.csproj.GenerateResource.cache
+E:\Inż\Semestr V\UP\lab5\Bluetooth\Bluetooth\obj\Debug\Bluetooth.csproj.CoreCompileInputs.cache
+E:\Inż\Semestr V\UP\lab5\Bluetooth\Bluetooth\obj\Debug\Bluetooth.csproj.CopyComplete
+E:\Inż\Semestr V\UP\lab5\Bluetooth\Bluetooth\obj\Debug\Bluetooth.exe
+E:\Inż\Semestr V\UP\lab5\Bluetooth\Bluetooth\obj\Debug\Bluetooth.pdb
